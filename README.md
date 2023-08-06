@@ -17,7 +17,7 @@ The Note Server App is a RESTful API built with Node.js, Express.js and LowDb th
 
 -   GET `/notes/:id` - Get a specific note by its ID.
 
--   POST `/notes` - - Create a new note.
+-   POST `/notes` - Create a new note.
 
 -   PATCH `/notes/:id` - Update a note.
 
@@ -34,8 +34,7 @@ This app was built using the next technologies: Typescript, Node.js, Express.js,
 1. Clone the repository:
    `git clone https://github.com/NikolayVerstak/notes-node-app.git`
 
-2. nstall the dependencies in the project directory:
-   `cd notes-node-app`
+2. Install the dependencies in the project directory:
    `npm install`
 
 3. Run the server:
